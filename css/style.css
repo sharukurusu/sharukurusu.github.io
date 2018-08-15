@@ -1,0 +1,13 @@
+header {
+    background-color: #4aaaa5
+}
+
+body {
+    background-image: "images/qbkls.png";
+    background-color: #cccccc;
+}
+
+#aboutMe {
+    width: 200px
+    height: auto
+}
