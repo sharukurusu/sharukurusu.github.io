@@ -1,1 +1,0 @@
-# sharukurusu.github.io
